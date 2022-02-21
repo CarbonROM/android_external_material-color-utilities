@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package hct;
+package org.carbonrom.colorutils.hct;
 
 import static java.lang.Math.max;
 

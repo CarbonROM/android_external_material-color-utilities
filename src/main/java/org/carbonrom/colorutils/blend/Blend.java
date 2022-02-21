@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package blend;
+package org.carbonrom.colorutils.blend;
 
 import static java.lang.Math.min;
 

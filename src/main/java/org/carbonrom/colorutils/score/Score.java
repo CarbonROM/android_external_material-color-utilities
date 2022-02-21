@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package score;
+package org.carbonrom.colorutils.score;
 
 import hct.Cam16;
 import utils.ColorUtils;

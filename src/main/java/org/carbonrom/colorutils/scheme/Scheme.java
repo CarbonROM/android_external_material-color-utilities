@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package scheme;
+package org.carbonrom.colorutils.scheme;
 
 import palettes.CorePalette;
 
